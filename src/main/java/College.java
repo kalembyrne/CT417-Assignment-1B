@@ -1,7 +1,5 @@
 import org.joda.time.DateTime;
 
-import java.util.List;
-
 public class College {
     public static void main(String args[]){
         Student student1 = new Student("John smith",18,"09/12/01");
